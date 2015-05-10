@@ -15,7 +15,7 @@ Installation
 
 Configuration (this is v0.1, more admin config of the theme coming to a new version near you soon)...
 ------------
-Have each Post you want appearing in the Bootstrap carousel-powered animated slider on the front page of your site (like the one you see on http://oaklandesign.com) containing a reference to a website you had some major notable contributions to. If you want the Post to appear in your front page slider, simply use oaklan's custom-provided form entries injected into the bottom of the "Edit Post" admin area of your wordpress, to provide a thumbnail image (shown in that portfolio Post), and a slider image for the mention of this portfolio item in the front-page slider. That's it!
+Have each Post you want appearing in the Bootstrap carousel-powered animated slider on the front page of your site (like the one you see on http://oaklandesigns.com) containing a reference to a website you had some major notable contributions to. If you want the Post to appear in your front page slider, simply use oaklan's custom-provided form entries injected into the bottom of the "Edit Post" admin area of your wordpress, to provide a thumbnail image (shown in that portfolio Post), and a slider image for the mention of this portfolio item in the front-page slider. That's it!
 
 More configuration options to match backwards compatibility of the original blacktribe theme coming soon in v0.2 etc. ;-)
 
