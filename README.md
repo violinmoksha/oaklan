@@ -22,3 +22,9 @@ More configuration options akin to the original blacktribe theme coming soon in 
 What you get/What you put
 ------------
 Since _strap was LESS-based for its .css, I've added a small, portable package.json for a nodejs gulp-based LESS auto-save transpiler. Thus, if you decide you want to custom edit oaklan and turn it into something else, you'll need to edit or add to the included .less files, change the paths around, and auto-transpile your LESS into uglified/minified and gzip'd .css by running gulp in the background. Anyone who knows node, npm, and gulp (or grunt) should be able to figure out what to do with this package.json ... (I've also left the gulpfile.js around for you to hack around with to your heart's content) ;-)
+
+Example
+------------
+If you install and configure as above, you should get something that looks like this (and is fully response to mobile/tablet/desktop):
+
+<a href="http://oaklandesigns.com"><img src="https://github.com/violinmoksha/oaklan/raw/master/screenshot.png" alt="a screenshot of oaklandesigns.com"></a>
